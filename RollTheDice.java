@@ -1,5 +1,5 @@
 
-public class RollingDice2
+public class RollTheDice
 {
   public static void main(String[] args)
   {
